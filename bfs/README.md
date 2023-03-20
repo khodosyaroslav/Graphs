@@ -14,26 +14,35 @@ The task of the work was to develop a program that:
 Solution:
 
 1. Vertices are generated randomly
-![[Pasted image 20230320191853.png]]
+
+![image](https://user-images.githubusercontent.com/90519548/226420421-021491b1-1531-4565-801f-75af28025926.png)
 
 2.  Enter d = 18 and the graph is connected by twelve edges and has the following form:
-![[Pasted image 20230320191947.png]]
+
+![image](https://user-images.githubusercontent.com/90519548/226420448-923576cd-d9e0-420d-80e9-fcfbe305a989.png)
 
 3. List of edges:
-![[Pasted image 20230320192205.png]]
+
+![image](https://user-images.githubusercontent.com/90519548/226420473-a1c3a750-0001-43ef-9373-f210c1e02c5d.png)
 
 4. The matrix of distances between vertices and the message about the d value at which the graph will be complete:
-![[Pasted image 20230320192215.png]]
+
+![image](https://user-images.githubusercontent.com/90519548/226420609-7caaebb2-1517-4e5c-af46-afe774df1e1f.png)
 
 5. Adjacency matrix:
-![[Pasted image 20230320192223.png]]
+
+![image](https://user-images.githubusercontent.com/90519548/226420632-3475cffb-f3cd-42e3-a0ac-1c8e0d654c8d.png)
 
 6. Adjacency list:
-![[Pasted image 20230320192231.png]]
+
+![image](https://user-images.githubusercontent.com/90519548/226420664-f95c0111-a0e1-4eba-be7c-c5cb60488454.png)
 
 7. Incidence matrix:
-![[Pasted image 20230320192238.png]]
+
+![image](https://user-images.githubusercontent.com/90519548/226420696-8d5a141d-8a0b-49fb-b95f-61bda1ef11d9.png)
 
 8. We select the starting vertex 2, for which the breadth-first search algorithm will be performed and display the resulting search tree:
-![[Pasted image 20230320192247.png]]
-![[Pasted image 20230320192252.png]]
+
+![image](https://user-images.githubusercontent.com/90519548/226420714-92560e6b-179a-4f4e-9a6b-bf64bbcfa99b.png)
+
+![image](https://user-images.githubusercontent.com/90519548/226420732-23aea27e-39ba-44a2-b96e-03141193dd5b.png)
