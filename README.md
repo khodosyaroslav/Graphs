@@ -5,3 +5,4 @@ This repository contains implementations of the graph data structure and algorit
 - Storing graph in memory using adjacency matrix, adjacency list and incidence matrix
 - Calculation of distance matrix for graph vertices
 - Breadth-first search and bfs which returns a tree
+- Dijkstra's algorithm
